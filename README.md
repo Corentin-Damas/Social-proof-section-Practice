@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Nazemrap/Social-proof-section
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://nazemrap.github.io/Social-proof-section/
 
 ## My process
 
